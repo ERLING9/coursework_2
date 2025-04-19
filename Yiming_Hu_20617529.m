@@ -1,3 +1,6 @@
+%YimingHU
+%SSYYH29@NOTTINGHAM.edu.cn
+
 %% Preliminary TASK
 clear
 a=arduino; % create a to control the arduino
@@ -96,6 +99,27 @@ while true
     i=i+1; % counter increase by one
     pause(1);% pause for 1second
 end
+ 
+%% task 4
+%reflective statement
+%Through this couresework, I faced a few difficulties and challenges.
+%The biggest challenge was that I didn't learn enough codes,
+%which made it difficult for me to translate the task requirements into actual codes.
+%Sometimes I have the idea to solve the problems but don't know how to
+%achieve it by codes.
+%My strengths in the project reflects on my flexible thinking and
+%self-learning ability.
+%To achieve the final result, I searched various codes online, learned how
+%to use these new codes.
+%After continuously tying and making mistakes, I ultimately achieved the
+%results required in tasks.
+%There are still some limitations in this project. For instance, due to my
+%lack of understanding of some codes, part features could not be
+%implemented well, but I have no idea how to improve these codes further.
+%For my future approvements, I will spend more time to learn differnt
+%MATLAB codes so that I can more easily translate the ideas in my mind into
+%actual codes in MATLAB.
 
-    
+
+
 
